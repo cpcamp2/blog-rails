@@ -1,24 +1,11 @@
-# README
+#Project Information
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###Practice Blog using Rails 5
 
-Things you may want to cover:
+Resources used:
 
-* Ruby version
+* Additional Gems: Devise, ActiveAdmin, ActiveSkin, Paperclip
 
-* System dependencies
+* Awesome font cdn
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Bootstrap Starter Template: Free Lancer
