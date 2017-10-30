@@ -1,6 +1,6 @@
-#Project Information
+# Project Information
 
-###Practice Blog using Rails 5
+### Practice Blog using Rails 5
 
 Resources used:
 
