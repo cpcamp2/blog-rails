@@ -20,6 +20,8 @@ gem 'devise', '~> 4.2'
 gem 'activeadmin', github: 'activeadmin'
 gem 'active_skin'
 
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
+
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'rspec-rails'
